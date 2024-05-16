@@ -1,0 +1,31 @@
+/*
+	Name: Supplied by MDN WebDocs
+	File: letter_style.css
+	Date: 2024-05-16
+	For MDN WebDocs Markup a Letter Exercise
+*/
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.sender-column {
+  text-align: right;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+p,ul,ol,dl,address {
+  font-size: 1.1em;
+}
+
+p, li, dd, dt, address {
+  line-height: 1.5;
+}
